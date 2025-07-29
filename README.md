@@ -36,7 +36,7 @@ Frontend Developer in the making 🚀
 
 ## 📎 Live Demo
 
-[🔗 View Project Live](https://your-live-link.com) <!-- Replace with actual deployed link -->
+[🔗 View Project Live](https://mohamed-cloud595.github.io/LaslesVPN/)
 
 ## 📬 Contact
 
